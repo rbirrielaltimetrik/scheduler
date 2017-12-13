@@ -1,5 +1,5 @@
 task default: %w[test]
 
 task :test do
-  echo 'Hello, world!'
+  puts 'Hello, world!'
 end
